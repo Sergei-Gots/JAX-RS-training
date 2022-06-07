@@ -1,4 +1,4 @@
-# JAX-RX-training
+# JAX-RS-training
 Develop RESTful Java Web Service using JAX-RS Service and Jersey
 
 
